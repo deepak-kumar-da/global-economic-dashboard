@@ -95,7 +95,7 @@ It helps in understanding how different countries perform across key metrics lik
 
 
 | <img width="681" height="382" alt="1o1" src="https://github.com/user-attachments/assets/d9c0bb66-8a2f-41de-80af-f27bfc28e48f" /> |
-<img width="683" height="382" alt="1o2" src="https://github.com/user-attachments/assets/52dfd490-29b7-4117-9e71-cad31f8a8bcf" /> |
+| <img width="683" height="382" alt="1o2" src="https://github.com/user-attachments/assets/52dfd490-29b7-4117-9e71-cad31f8a8bcf" /> |
 
 
 ---
@@ -103,7 +103,7 @@ It helps in understanding how different countries perform across key metrics lik
 | Population & Health | Inflation & Unemployment |
 |------------|--------------------|
 | (<img width="686" height="384" alt="1o3" src="https://github.com/user-attachments/assets/fa054331-086d-4975-85f0-81a5cb1d4242" /> |
-<img width="683" height="384" alt="1o4" src="https://github.com/user-attachments/assets/4b35f507-f7c3-4cdc-8ce4-288743253c05" /> |
+| <img width="683" height="384" alt="1o4" src="https://github.com/user-attachments/assets/4b35f507-f7c3-4cdc-8ce4-288743253c05" /> |
 
 ---
 
