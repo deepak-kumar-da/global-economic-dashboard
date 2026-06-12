@@ -56,33 +56,27 @@ It helps in understanding how different countries perform across key metrics lik
 
 ---
 
-### 🟩 2. GDP Analysis
+### 🟩 2. Economic Performance
 - Country-wise GDP comparison  
-- Top 10 & Bottom 10 economies  
-- Trend analysis over years  
+- Top 10 & Bottom 10 GDP Countries  
+- Trend analysis over years 
 
 ---
 
-### 🟨 3. Population Insights
-- Population distribution by region  
-- Highly populated vs low populated countries  
-- Growth trends  
+### 🟨 3. Population & Health Insights
+- Population distribution by country
+- Life Expectancy distribution by country   
+- Growth trends of population and life expectancy 
 
 ---
 
-### 🟧 4. Development Indicators
-- Life expectancy comparison  
-- Inflation & unemployment trends  
-- Development ranking  
+### 🟧 4. Inflation & Unemployment Insights
+- Inflation comparison by country
+- Unemloyment comparison by country 
+- Inflation & unemployment trends    
 
 ---
 
-### 🟥 5. Country Comparison Tool
-- Select multiple countries  
-- Compare all KPIs side by side  
-- Dynamic filtering system  
-
----
 
 ## 📦 Dataset Information
 
@@ -95,8 +89,6 @@ It helps in understanding how different countries perform across key metrics lik
 ---
 
 ## 📸 Dashboard Preview
-
-> Replace these with your actual screenshots
 
 | Global Overview | GDP Analysis |
 |----------------|--------------|
