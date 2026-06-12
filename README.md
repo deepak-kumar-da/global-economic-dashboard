@@ -108,24 +108,16 @@ It helps in understanding how different countries perform across key metrics lik
 ---
 
 
-## 📈 Key Insights (Example)
+## 📈 Key Insights
 
-- USA and China dominate global GDP contribution  
+- Which Country dominate global GDP contribution  
 - Developing countries show higher population growth rates  
 - Inflation varies significantly across regions  
-- Life expectancy strongly correlates with GDP per capita  
+- Life expectancy strongly correlates with GDP growth
+- Unemployment Changes by population over Time  
 
 ---
 
-## 🚀 Project Highlights
-
-- ✔ Clean and structured data model  
-- ✔ Interactive filtering and slicers  
-- ✔ Multi-page dashboard design  
-- ✔ Real-world economic dataset  
-- ✔ Business-like reporting style  
-
----
 
 ## 🧠 Skills Demonstrated
 
@@ -139,8 +131,7 @@ It helps in understanding how different countries perform across key metrics lik
 
 ## 👨‍💻 Author
 
-**Deepak Kumar**  
-Data Science Enthusiast  
+**Deepak Kumar**    
 
 ---
 
