@@ -30,7 +30,8 @@ It helps in understanding how different countries perform across key metrics lik
 | Power BI | Dashboard creation & visualization |
 | Excel / CSV | Data storage & preprocessing |
 | World Bank Data | Primary dataset source |
-| DAX | Calculated measures & KPIs |
+| Python | Fetch data from World Bank Data |
+| SQL | Queries and Data Enrichment |
 
 ---
 
@@ -43,7 +44,7 @@ It helps in understanding how different countries perform across key metrics lik
 | Inflation Rate | Economic stability indicator |
 | Unemployment Rate | Labor market condition |
 | Life Expectancy | Health & development indicator |
-| GDP per Capita | Economic productivity per person |
+| GDP_Growth | Rate of Change of GDP |
 
 ---
 
